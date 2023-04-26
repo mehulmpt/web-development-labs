@@ -1,0 +1,1 @@
+// Write your JavaScript code here for binding click events to boxes and changing background color of the body.
