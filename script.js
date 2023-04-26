@@ -1,0 +1,1 @@
+// Add your JavaScript code here to fetch and display weather data
