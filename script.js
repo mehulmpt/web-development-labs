@@ -1,0 +1,1 @@
+// Write JavaScript code to bind click event on the setStorage and getStorage buttons
