@@ -1,0 +1,1 @@
+// Write your 'changeImage' function and add event listeners for 'prev-button' and 'next-button' here
