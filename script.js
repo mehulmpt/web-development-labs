@@ -1,0 +1,1 @@
+// Implement fizzBuzz() function here, and also register an event listener on the button's click event.
