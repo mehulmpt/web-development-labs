@@ -1,0 +1,1 @@
+// Add JavaScript code to fetch data from provided API and manipulate the DOM to display property cards
