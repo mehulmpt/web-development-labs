@@ -1,9 +1,19 @@
 <!doctype HTML>
 <html>
     <head>
-        <!-- Add your title and meta description tags here -->
+        <title>Color Picker Lab</title>
+        <script src="script.js" defer></script>
+        <style>
+          #color-display {
+            width: 100px;
+            height: 100px;
+            border: 3px solid #000;
+          }
+        </style>
     </head>
     <body>
-        <!-- Add your H1 and H2 tags here -->
+        <input type="number" id="redInput" min="0" max="255" value="0">
+        <input type="number" id="greenInput" min="0" max="255" value="0">
+        <div id="color-display"></div>
     </body>
 </html>
