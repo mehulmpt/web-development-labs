@@ -1,0 +1,1 @@
+// Add event listeners and logic for adding products to cart and handling checkout here
