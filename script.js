@@ -1,0 +1,1 @@
+/* Fetch images from the endpoint and load them onto the page */
