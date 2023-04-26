@@ -1,0 +1,1 @@
+// Implement the fetchLocation function here. Make sure to call this function when the button with id 'getLocation' is clicked.
