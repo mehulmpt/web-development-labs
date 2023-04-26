@@ -1,0 +1,1 @@
+// Add event listeners and write the code to detect the color change in the input and set the div's background color accordingly.
