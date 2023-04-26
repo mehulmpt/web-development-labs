@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-top: 10px;
+}
+
+.task {
+    border: 1px solid #CCC;
+    background-color: #EEE;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.delete-task {
+    background-color: transparent;
+    border: none;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}

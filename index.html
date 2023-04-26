@@ -1,9 +1,16 @@
 <!doctype HTML>
 <html>
     <head>
-        <!-- Add your title and meta description tags here -->
+        <title>To-Do List Lab</title>
+        <link rel='stylesheet' type='text/css' href='styles.css'>
     </head>
     <body>
-        <!-- Add your H1 and H2 tags here -->
+        <button id='add-task'>Add Task</button>
+        <form id='task-form' style='display: none;'>
+            <input type='text' id='task-input' placeholder='Enter Task Here'>
+            <button type='submit' id='task-submit'>Submit</button>
+        </form>
+        <ul id='task-list'></ul>
+        <script src='script.js'></script>
     </body>
 </html>
