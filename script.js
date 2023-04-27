@@ -1,0 +1,1 @@
+// Write the necessary JavaScript code to handle add and remove button functionality
