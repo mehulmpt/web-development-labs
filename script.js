@@ -1,0 +1,1 @@
+// Write code here to create addTask function and attach it to the onclick event of the button
