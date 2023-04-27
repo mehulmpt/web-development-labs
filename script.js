@@ -1,0 +1,1 @@
+// Attach the event listener to the form and write the plagiarism detection logic here
