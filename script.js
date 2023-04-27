@@ -1,0 +1,1 @@
+// Write JS code to add products to the list when the submit button is clicked
