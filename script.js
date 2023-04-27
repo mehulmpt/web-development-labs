@@ -1,0 +1,1 @@
+// Write your JavaScript code here to attach event listeners and update required elements upon file upload
