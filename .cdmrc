@@ -1,2 +1,2 @@
-tabs: ['index.html']
+tabs: ['manifest.json', 'popup.html', 'script.js']
 terminals: ['static-server -p 1337 --no-cache']
