@@ -1,0 +1,1 @@
+// Attach event listeners and write the submitInput function here
