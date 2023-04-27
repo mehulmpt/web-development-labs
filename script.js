@@ -1,0 +1,1 @@
+// Write your JavaScript code here to handle form submission, API call and updating the DOM elements.
