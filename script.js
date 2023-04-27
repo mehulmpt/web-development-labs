@@ -1,0 +1,1 @@
+// Attach click event listeners to buttons and perform the required operations
