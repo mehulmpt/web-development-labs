@@ -1,0 +1,1 @@
+// Write the JavaScript code for adding tasks and handling delete button clicks here.
