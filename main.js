@@ -1,0 +1,1 @@
+// Add event listeners for play and pause buttons here
