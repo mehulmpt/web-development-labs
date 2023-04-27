@@ -1,0 +1,1 @@
+// Declare an array of quotes and the function to display a random quote here
