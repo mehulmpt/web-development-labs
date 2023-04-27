@@ -1,0 +1,1 @@
+// Add your JavaScript code here to set up the click event listeners for the buttons and volume slider.
