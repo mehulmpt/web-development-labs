@@ -1,0 +1,1 @@
+// Write event listeners to handle bold and italic formatting for the textarea.
