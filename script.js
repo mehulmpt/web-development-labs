@@ -1,0 +1,1 @@
+// Write your JavaScript code here to add button click event and update word count
