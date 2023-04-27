@@ -1,0 +1,1 @@
+// Initialize Web Speech Recognition API and add event listeners here
