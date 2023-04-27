@@ -1,0 +1,1 @@
+// Implement the functionality for fetching and displaying news
