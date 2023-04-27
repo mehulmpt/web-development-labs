@@ -1,0 +1,1 @@
+.cards {display: grid;grid-template-columns: repeat(4, 1fr);grid-gap: 10px;}.card {width: 100px;height: 140px;background-color: #f1f1f1;border-radius: 5px;}.card.flipped {display: block;}.card.matched {background-color: #4CAF50;opacity: 0.5;}
