@@ -1,9 +1,24 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Codedamn Lab</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<form id="colorForm">
+			<div>
+				<label for="bgColor">Background Color:</label>
+				<input type="color" id="bgColor" />
+			</div>
+			<div>
+				<label for="textColor">Text Color:</label>
+				<input type="color" id="textColor" />
+			</div>
+		</form>
+		<p id="sampleText">
+			This is a sample text. Colors will change for this paragraph based
+			on input colors.
+		</p>
+		<script src="script.js"></script>
+	</body>
 </html>
