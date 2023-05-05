@@ -1,0 +1,9 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"devDependencies": {
+		"node-fetch": "^2.6.1",
+		"vite": "^3",
+		"vitest": "^0.22.1"
+	}
+}
