@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-jwt-auth",
+	"type": "module",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
