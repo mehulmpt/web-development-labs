@@ -1,0 +1,9 @@
+{
+	"name": "codedamn-cookie-lab",
+	"type": "module",
+	"dependencies": {
+		"express": "^4.17.2",
+		"cookie-parser": "^1.4.6"
+	},
+	"devDependencies": {}
+}
