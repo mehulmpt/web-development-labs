@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"multer": "^3.1.0"
+	}
+}
