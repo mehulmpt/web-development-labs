@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"scripts": {
+		"start": "node server.js"
+	}
+}
