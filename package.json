@@ -1,0 +1,8 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"express": "4",
+		"multer": "1"
+	}
+}
