@@ -1,0 +1,3 @@
+console.log('Spread Operator Practice Lab')
+
+// Your code goes here...
