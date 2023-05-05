@@ -1,0 +1,1 @@
+import fs from 'fs';\n\nconsole.log('Hello world');
