@@ -1,0 +1,3 @@
+console.log('Welcome to the try-catch lab')
+
+// Your code goes here...
