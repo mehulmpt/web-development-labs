@@ -1,0 +1,1 @@
+/*\n * Your task is to write the 'getUser' and 'displayUser' functions here.\n * Make sure to export both of them using ESM syntax.\n */\n\n
