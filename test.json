@@ -1,0 +1,13 @@
+{
+	"name": "John",
+	"age": 30,
+	"city": "New York",
+	"address": {
+		"street": "Park Avenue",
+		"number": 123,
+		"building": {
+			"name": "Empire State",
+			"floors": 102
+		}
+	}
+}
