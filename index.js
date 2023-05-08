@@ -1,0 +1,3 @@
+console.log('Welcome to File Permission and Ownership Lab:')
+
+// Start your code here...
