@@ -1,0 +1,6 @@
+{
+	"name": "codedamn-lab",
+	"dependencies": {
+		"dayjs": "^1.11.2"
+	}
+}
