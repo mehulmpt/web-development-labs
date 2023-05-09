@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"mutexify": "^1.3.0"
+	}
+}
