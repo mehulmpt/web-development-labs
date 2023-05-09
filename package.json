@@ -1,0 +1,8 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"compressjs": "1.0.3",
+		"node-dedup": "0.0.3"
+	}
+}
