@@ -1,0 +1,1 @@
+import fs from 'fs';\n\n// Write your code here
