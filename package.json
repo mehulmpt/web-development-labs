@@ -1,0 +1,7 @@
+{
+	"name": "lodash-lab",
+	"type": "module",
+	"dependencies": {
+		"lodash": "latest"
+	}
+}
