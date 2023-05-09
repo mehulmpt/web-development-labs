@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"devDependencies": {
+		"lodash": "4.17.21"
+	}
+}
