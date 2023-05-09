@@ -1,0 +1,8 @@
+{
+	"name": "codedamn_copy_lab",
+	"type": "module",
+	"devDependencies": {
+		"chai": "+2",
+		"vitest": "+0.22.1"
+	}
+}
