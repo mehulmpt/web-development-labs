@@ -1,0 +1,1 @@
+class Singleton {\n  // Write your Singleton class here\n}\n\nclass Factory {\n  // Write your Factory class here\n}\n\nclass Observer {\n  // Write your Observer class here\n}\n\n// Remember to export your classes at the end.\n
