@@ -1,0 +1,7 @@
+{
+	"name": "dayjs-isbefore-lab",
+	"type": "module",
+	"dependencies": {
+		"dayjs": "^1.10.7"
+	}
+}
