@@ -1,0 +1,9 @@
+{
+	"name": "dayjs-issame-lab",
+	"version": "1.0.0",
+	"description": "Lab to learn and practice the Day.js isSame() method",
+	"type": "module",
+	"dependencies": {
+		"dayjs": "^1.10.7"
+	}
+}
