@@ -1,0 +1,1 @@
+This is a sample text file that you will be working with in this lab.
