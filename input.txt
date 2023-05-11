@@ -1,0 +1,4 @@
+This is a sample input.txt file.
+You need to process this file using a transform stream.
+Modify the contents as instructed in the lab.
+Export the necessary code to be tested in the evaluation script.
