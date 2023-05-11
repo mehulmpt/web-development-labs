@@ -1,0 +1,7 @@
+{
+	"name": "event-emitter-lab",
+	"type": "module",
+	"dependencies": {
+		"events": "^3.3.0"
+	}
+}
