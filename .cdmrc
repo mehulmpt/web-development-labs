@@ -1,2 +1,2 @@
-tabs: ['index.html']
-terminals: ['static-server -p 1337 --no-cache']
+tabs: ['index.js', 'input.txt', 'output.txt']
+terminals: ['echo "Please check your index.js, input.txt, and output.txt files to see the results"']
