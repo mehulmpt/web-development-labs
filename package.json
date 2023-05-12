@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-duplexlab",
+	"type": "module",
+	"dependencies": {
+		"stream": "^0.0.2"
+	}
+}
