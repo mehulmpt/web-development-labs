@@ -1,0 +1,2 @@
+This is a sample input file.
+Feel free to replace this with your own content.
