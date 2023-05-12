@@ -1,0 +1,5 @@
+{
+	"name": "stream-passthrough-lab",
+	"main": "index.js",
+	"type": "module"
+}
