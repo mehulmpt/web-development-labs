@@ -1,0 +1,5 @@
+{
+	"name": "nodejs-custom-readable-stream",
+	"version": "1.0.0",
+	"type": "module"
+}
