@@ -1,9 +1,40 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Intersection Observer Lab</title>
+		<style>
+			html,
+			body {
+				height: 200%;
+				width: 100%;
+				margin: 0;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				font-family: Arial, sans-serif;
+			}
+			.box {
+				width: 100px;
+				height: 100px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				position: fixed;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+			}
+			#box1 {
+				background-color: #ff4757;
+			}
+			#box2 {
+				background-color: #00ced1;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="box" id="box1">Box 1</div>
+		<div class="box" id="box2">Box 2</div>
+		<script src="script.js"></script>
+	</body>
 </html>
