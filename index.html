@@ -1,9 +1,34 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Cookie Manager Lab</title>
+	</head>
+	<body>
+		<h1>Cookie Manager</h1>
+		<form id="cookieForm">
+			<label for="cookieNameInput">Cookie name:</label>
+			<input type="text" id="cookieNameInput" />
+			<label for="cookieValueInput">Cookie value:</label>
+			<input type="text" id="cookieValueInput" />
+			<label for="expiryDateInput">Expiry date:</label>
+			<input type="date" id="expiryDateInput" />
+			<button type="button" id="createCookie">Create Cookie</button>
+		</form>
+
+		<div>
+			<label for="readCookieNameInput">Read cookie:</label>
+			<input type="text" id="readCookieNameInput" />
+			<button type="button" id="readCookie">Read Cookie</button>
+			<span id="readCookieResult"></span>
+		</div>
+
+		<div>
+			<button type="button" id="deleteCookie">Delete Cookie</button>
+			<button type="button" id="deleteAllCookies">
+				Delete All Cookies
+			</button>
+		</div>
+
+		<script src="script.js"></script>
+	</body>
 </html>
