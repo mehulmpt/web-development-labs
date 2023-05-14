@@ -1,9 +1,19 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Fetch API Lab</title>
+	</head>
+	<body>
+		<h1>GitHub User Fetch</h1>
+		<p>Enter a GitHub username:</p>
+		<input type="text" id="username" />
+		<button id="fetchButton">Fetch User</button>
+		<div id="userProfile" style="display: none">
+			<h2 id="userFullName"></h2>
+			<div id="userImageUrl"></div>
+			<p id="repoCount"></p>
+			<a id="profileLink"></a>
+		</div>
+		<script src="script.js"></script>
+	</body>
 </html>
