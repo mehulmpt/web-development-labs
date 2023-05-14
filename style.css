@@ -1,0 +1,21 @@
+/* Add your CSS styles here */
+.todo-container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+ul#todo-list {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul#todo-list li {
+	padding: 5px;
+	border-bottom: 1px solid #ddd;
+}
+
+ul#todo-list li:last-child {
+	border-bottom: none;
+}
