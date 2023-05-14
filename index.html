@@ -1,9 +1,31 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>DOM manipulation game</title>
+		<style>
+			.game-board {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 2px;
+				width: 200px;
+				margin: auto;
+				background-color: #233b6b;
+				padding: 2px;
+			}
+			.cell {
+				cursor: pointer;
+				height: 30px;
+				width: 30px;
+				background-color: white;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="game-board"></div>
+		<script src="script.js"></script>
+	</body>
 </html>
