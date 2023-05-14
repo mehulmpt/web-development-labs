@@ -1,9 +1,23 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Base64 Encoding and Decoding Lab</title>
+	</head>
+	<body>
+		<div id="encodingSection">
+			<label for="inputText">Text:</label>
+			<input type="text" id="inputText" placeholder="Type here..." />
+			<button id="encodeButton">Encode</button>
+			<label for="outputEncoded">Encoded:</label>
+			<input type="text" id="outputEncoded" readonly />
+		</div>
+		<div id="decodingSection">
+			<label for="inputEncoded">Encoded:</label>
+			<input type="text" id="inputEncoded" placeholder="Type here..." />
+			<button id="decodeButton">Decode</button>
+			<label for="outputText">Text:</label>
+			<input type="text" id="outputText" readonly />
+		</div>
+		<script src="script.js"></script>
+	</body>
 </html>
