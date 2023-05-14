@@ -1,9 +1,20 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Fade-in Fade-out effect lab</title>
+		<style>
+			#target {
+				opacity: 0;
+				transition: opacity 1s;
+				width: 100px;
+				height: 100px;
+				background-color: blue;
+			}
+		</style>
+	</head>
+	<body>
+		<button id="toggle-btn">Toggle Fade Effect</button>
+		<div id="target"></div>
+		<script src="script.js"></script>
+	</body>
 </html>
