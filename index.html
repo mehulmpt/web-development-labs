@@ -1,9 +1,21 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>DOM Manipulation Lab</title>
+		<style>
+			.task-item {
+				transition: all 0.3s;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Task Manager</h1>
+		<form id="task-form">
+			<input type="text" id="task-input" placeholder="Enter task" />
+			<button type="submit" id="add-task-btn">Add Task</button>
+		</form>
+		<ul id="task-list"></ul>
+
+		<script src="script.js"></script>
+	</body>
 </html>
