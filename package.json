@@ -1,0 +1,13 @@
+{
+	"name": "graphql-lab",
+	"version": "1.0.0",
+	"description": "A lab to practice GraphQL queries and mutations with Apollo Server",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"apollo-server": "^3.7.0",
+		"graphql": "^16.3.0"
+	}
+}
