@@ -1,9 +1,25 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Speech Recognition Lab</title>
+		<style>
+			#recognized-text {
+				border: 1px solid black;
+				width: 300px;
+				height: 200px;
+				overflow: auto;
+				padding: 10px;
+			}
+		</style>
+	</head>
+	<body>
+		<input
+			type="text"
+			id="speech-input"
+			placeholder="Start speaking here"
+		/>
+		<button id="start-button">Start Recognition</button>
+		<div id="recognized-text"></div>
+		<script src="script.js"></script>
+	</body>
 </html>
