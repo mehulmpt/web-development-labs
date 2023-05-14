@@ -1,9 +1,18 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>HTTP Request Playground</title>
+	</head>
+	<body>
+		<button id="sendRequest">Send Request</button>
+		<input type="text" id="url" placeholder="URL" />
+		<select id="requestMethod">
+			<option value="GET">GET</option>
+			<option value="POST">POST</option>
+			<option value="PUT">PUT</option>
+			<option value="DELETE">DELETE</option>
+		</select>
+		<p id="result"></p>
+		<script src="script.js"></script>
+	</body>
 </html>
