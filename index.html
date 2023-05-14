@@ -1,9 +1,25 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Client-Server Chat Application</title>
+		<link rel="stylesheet" href="styles.css" />
+		<script src="/socket.io/socket.io.js"></script>
+		<script src="script.js" defer></script>
+	</head>
+	<body>
+		<div class="chat-container">
+			<div class="messages-container" id="messages-container">
+				<!-- Chat messages will be added here -->
+			</div>
+			<form class="message-form" id="message-form">
+				<input
+					type="text"
+					name="message"
+					id="message"
+					placeholder="Type your message here..."
+				/>
+				<button type="submit">Send</button>
+			</form>
+		</div>
+	</body>
 </html>
