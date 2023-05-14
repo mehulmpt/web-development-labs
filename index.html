@@ -1,9 +1,24 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>To-Do List App</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<h1>To-Do List App</h1>
+		<div id="todoapp">
+			<input type="text" id="todoinput" placeholder="Enter a new task" />
+			<button id="addtask">Add Task</button>
+			<div id="todolist">
+				<!-- List of tasks will go here -->
+			</div>
+			<div>
+				<button id="showall">All</button>
+				<button id="showcompleted">Completed</button>
+				<button id="showpending">Pending</button>
+			</div>
+		</div>
+
+		<script src="script.js"></script>
+	</body>
 </html>
