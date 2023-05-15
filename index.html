@@ -1,9 +1,19 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Fetch API Lab</title>
+		<script src="script.js" defer></script>
+	</head>
+	<body>
+		<h1>GitHub User Search</h1>
+		<form onsubmit="event.preventDefault(); getUserInfo()">
+			<input
+				type="text"
+				id="username"
+				placeholder="Enter GitHub username"
+			/>
+			<button id="search" type="submit">Search</button>
+		</form>
+		<div id="results"></div>
+	</body>
 </html>
