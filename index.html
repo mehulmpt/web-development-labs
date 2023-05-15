@@ -1,9 +1,27 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <!-- Add your title and meta description tags here -->
-    </head>
-    <body>
-        <!-- Add your H1 and H2 tags here -->
-    </body>
+	<head>
+		<title>Form Validation Lab</title>
+		<style>
+			.error {
+				color: red;
+			}
+		</style>
+	</head>
+	<body>
+		<form id="form">
+			<label for="email">Email:</label>
+			<input type="email" id="email" placeholder="Email" />
+			<span class="error" id="email-error"></span>
+			<br />
+			<label for="password">Password:</label>
+			<input type="password" id="password" placeholder="Password" />
+			<span class="error" id="password-error"></span>
+			<br />
+			<button id="submit" type="submit" disabled>Submit</button>
+		</form>
+		<p id="submission-msg" hidden>Data submitted! Good Job!</p>
+
+		<script src="script.js"></script>
+	</body>
 </html>
