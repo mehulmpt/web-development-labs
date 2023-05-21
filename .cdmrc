@@ -1,2 +1,2 @@
-tabs: ['index.html']
-terminals: ['static-server -p 1337 --no-cache']
+tabs: ['index.js', 'challenge1.js', 'challenge2.js', 'challenge3.js']
+terminals: []
