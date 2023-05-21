@@ -1,0 +1,7 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"chai": "^4.3.4"
+	}
+}
