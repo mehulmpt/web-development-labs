@@ -1,0 +1,11 @@
+{
+	"name": "codedamn-lab",
+	"type": "module",
+	"scripts": {
+		"test": "node ./labtest/setupTestEnvironment.js"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"fs": "0.0.1-security"
+	}
+}
