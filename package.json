@@ -1,0 +1,8 @@
+{
+	"name": "camelise-object",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"repository": "https://github.com/mehulmpt/web-development-labs.git",
+	"license": "MIT"
+}
