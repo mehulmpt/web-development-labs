@@ -1,0 +1,8 @@
+{
+	"name": "array-prototype-reduce",
+	"version": "1.0.0",
+	"type": "module",
+	"main": "index.js",
+	"repository": "https://github.com/mehulmpt/web-development-labs.git",
+	"license": "MIT"
+}
