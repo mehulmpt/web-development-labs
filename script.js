@@ -1,1 +1,3 @@
-// Add event listener and logic here
+// Import the DOM elements
+
+// Add the event listener for #colorPicker element
