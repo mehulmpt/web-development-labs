@@ -1,2 +1,2 @@
-tabs: ['index.js', 'data.json']
-terminals: []
+tabs: ["index.js", "data.json"]
+run-button: node $$file
