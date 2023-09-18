@@ -1,8 +1,8 @@
 import fs from "fs";
-// Import the JSON File using 'fs' module
+// Import the JSON File using 'fs.readFileSync()' method
 
 // Parse the Imported String using JSON.parse
 
-// Update any property of the parsed Object like parseObject.age = 33
+// Update the age property of the parsed object to a new number
 
-// Export the parsed Object using 'export' keyword
+// Export the parsed Object using 'export default' keywords
