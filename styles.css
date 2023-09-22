@@ -1,1 +1,32 @@
-/* write your .color-block class here */
+.color-block {
+	width: 100px;
+	height: 100px;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.color-block:hover::after {
+	content: attr(data-color);
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+
+.color-block:hover {
+	opacity: 0.75;
+}
+
+#colors {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+	margin-top: 1.5rem;
+}
+
+#generate {
+	margin: 1.2rem auto;
+}
