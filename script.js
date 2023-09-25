@@ -1,1 +1,1 @@
-// Add your JavaScript code here
+// Add the click event listener here
