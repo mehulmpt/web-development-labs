@@ -4,7 +4,12 @@
 		<title>Currency Tracker</title>
 	</head>
 	<body>
-		<input type="text" id="currencyInput" placeholder="INR, EUR, CAD" />
+		<input
+			type="text"
+			id="currencyInput"
+			placeholder="INR, EUR, CAD"
+			oninput="this.value = this.value.toUpperCase()"
+		/>
 
 		<button id="sendRequest">Get Rate</button>
 
