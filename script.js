@@ -1,1 +1,1 @@
-// write your code here
+// add 'click' event listener to #sendRequest
