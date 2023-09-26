@@ -4,14 +4,22 @@
 		<title>Currency Tracker</title>
 	</head>
 	<body>
-		<input
-			type="text"
-			id="currencyInput"
-			placeholder="INR, EUR, CAD"
-			oninput="this.value = this.value.toUpperCase()"
-		/>
+		<form onsubmit="getCurrency(event)">
+			<input
+				type="text"
+				id="currencyInput"
+				name="currencyCode"
+				placeholder="INR, EUR, CAD"
+				pattern="^[A-Z]{3}$"
+				autocomplete="off"
+				autofocus
+				required
+			/>
 
-		<button id="sendRequest">Get Rate</button>
+			<input type="submit" value="Get Rate" />
+		</form>
+
+		<div id="results"></div>
 
 		<script src="script.js"></script>
 	</body>
