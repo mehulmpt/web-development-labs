@@ -1,11 +1,31 @@
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Image Manipulation Lab</title>
-    </head>
-    <body>
-        <!-- Create an 'img' element with id 'sampleImage' -->
-        <!-- Create buttons with ids 'rotateButton', 'scaleButton', and 'resetButton' -->
-        <script src="script.js"></script>
-    </body>
+	<head>
+		<title>Image Manipulation Lab</title>
+		<style>
+			div {
+				margin-bottom: 4rem;
+			}
+
+			#img-container {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<button id="rotateButton">Rotate</button>
+			<button id="scaleButton">Scale</button>
+			<button id="resetButton">Reset</button>
+		</div>
+		<div id="img-container">
+			<img
+				id="sampleImage"
+				src="https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3BhY2V4fGVufDB8fDB8fHww&w=350&q=100"
+			/>
+		</div>
+		<script src="script.js"></script>
+	</body>
 </html>
