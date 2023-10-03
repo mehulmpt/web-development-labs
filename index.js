@@ -1,5 +1,3 @@
-import http from 'http'
+import http from "http";
 
-// Your code goes here
-
-console.log('Server running')
+// Create a HTTP Server using the Router Function from 'routes.js'

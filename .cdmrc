@@ -1,2 +1,2 @@
-tabs: ['index.js']
-terminals: ['node .']
+tabs: ["index.js", "router.js"]
+terminals: ["yarn install && yarn dev"]
