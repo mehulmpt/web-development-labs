@@ -1,4 +1,11 @@
 {
 	"name": "codedamn-lab",
-	"type": "module"
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
 }
