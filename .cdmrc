@@ -1,2 +1,3 @@
-tabs: ["index.js", "routes.js"]
+tabs: ["index.js"]
 terminals: ["yarn install && yarn dev"]
+run-button: yarn dev
