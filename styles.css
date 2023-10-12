@@ -1,1 +1,7 @@
 /* Write your styles for the 'container' class here */
+.container > div {
+	width: 50px;
+	height: 50px;
+	background-color: #f00;
+	margin: 10px;
+}
