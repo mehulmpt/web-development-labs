@@ -9,10 +9,10 @@ export function createCounter(n) {
 // Sample Test Cases
 
 const counter = createCounter(10);
-counter(); // 10
-counter(); // 11
-counter(); // 12
+console.log(counter()); // 10
+console.log(counter()); // 11
+console.log(counter()); // 12
 
 const secondCounter = createCounter(42);
-counter(); // 43
-counter(); // 44
+console.log(counter()); // 43
+console.log(counter()); // 44
