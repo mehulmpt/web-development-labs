@@ -3,7 +3,7 @@
  * @return {Function} counter
  */
 export function createCounter(n) {
-	return function () {};
+	// return a function
 }
 
 // Sample Test Cases
