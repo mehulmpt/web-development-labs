@@ -1,3 +1,6 @@
-import fs from 'fs'
+// Create your product object
 
-console.log('Hello world')
+// export your product object
+
+// console.log the object to view the output
+// TIP: Use the run button to run your JS Code
