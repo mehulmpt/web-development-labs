@@ -14,5 +14,5 @@ console.log(counter()); // 11
 console.log(counter()); // 12
 
 const secondCounter = createCounter(42);
-console.log(counter()); // 43
-console.log(counter()); // 44
+console.log(secondCounter()); // 43
+console.log(secondCounter()); // 44
