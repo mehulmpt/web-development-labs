@@ -1,2 +1,2 @@
-tabs: ['index.js']
-terminals: []
+tabs: ["index.js"]
+run-button: node index.js
