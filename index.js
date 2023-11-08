@@ -2,6 +2,6 @@ export const capitaliseWord = (word) => {
 	// Write your code here
 };
 
-capitaliseWord("hello"); // Output: 'Hello'
-capitaliseWord("mom"); // Output: 'Mom'
-capitaliseWord("dAD"); // Output: 'DAD'
+console.log(capitaliseWord("hello")); // Output: 'Hello'
+console.log(capitaliseWord("mom")); // Output: 'Mom'
+console.log(capitaliseWord("dAD")); // Output: 'DAD'
