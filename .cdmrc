@@ -1,2 +1,3 @@
-tabs: ['index.js']
-terminals: ['yarn install']
+tabs: ["index.js"]
+terminals: ["bun i && node index.js"]
+run-button: node index.js
