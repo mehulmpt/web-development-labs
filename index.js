@@ -1,8 +1,8 @@
 // import range function
 // import mapIterator function
 
-// use range() to create an array from 1 to 10
+// create variable"myRange" using  range() to create an array from 1 to 10 and export it
 
 // create timesTwo(n) thats returns 2*n
 
-// use mapIterator over the output of range() with timesTwo() as the callback function
+// create "doubledRange" variable using mapIterator over the output of range() with timesTwo() as the callback function and export it
