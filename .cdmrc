@@ -1,2 +1,2 @@
-tabs: ['index.js', 'range.js']
-terminals: []
+tabs: ["index.js", "range.js", "mapIterator.js"]
+run-button: node $$file
