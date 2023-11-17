@@ -1,2 +1,3 @@
-tabs: ['index.js']
-terminals: []
+tabs: ["index.js"]
+terminals: ["bun install && clear"]
+run-button: node index.js
