@@ -1,8 +1,8 @@
 {
-  "name": "codedamn-lab",
-  "type": "module",
-  "dependencies": {
-    "vite": "^5.0.0",
-    "vitest": "^0.34.6"
-  }
+	"name": "codedamn-lab",
+	"type": "module",
+	"dependencies": {
+		"vite": "5.0.0",
+		"vitest": "0.34.6"
+	}
 }
