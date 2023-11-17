@@ -1,3 +1,12 @@
-// Start by declaring your variables here
+// Define the four variables here
 
-console.log('Hello, World!')
+// Define 'num'
+
+// Define 'str'
+
+// Define 'bool'
+
+// Define 'arr'
+
+// The code below this line is used for tests - don't change it
+export { num, str, bool, arr };
