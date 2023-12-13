@@ -1,2 +1,2 @@
-tabs: ['index.js']
-terminals: ['yarn install']
+tabs: ["index.js"]
+terminals: ["node index.js"]
