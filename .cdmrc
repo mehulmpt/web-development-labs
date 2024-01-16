@@ -1,2 +1,3 @@
-tabs: ['index.js']
+tabs: ["index.js"]
 terminals: []
+run-button: node $$file
